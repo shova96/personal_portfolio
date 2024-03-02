@@ -83,12 +83,12 @@ h3 {
 }
 .contacts {
   text-align: center;
-  height: 700px;
+  height: auto;
   background-image: url("./assets/experience.png");
   background-repeat: no-repeat;
   background-position: right;
   margin-top: auto;
-  padding-top: 20px;
+  padding-top: 30px;
 }
 #Full-Stack {
   border-left: 4px solid #000;
@@ -104,6 +104,3 @@ footer {
   text-align: center;
   color: #181c32;
 }
-/* .fontbox {
-  display: flexb;
-} */
